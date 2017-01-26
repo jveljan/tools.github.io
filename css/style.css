@@ -1,0 +1,7 @@
+ body {
+   padding-top: 60px;
+} 
+
+.debug {
+  border: solid red 1px;
+}
